@@ -76,7 +76,7 @@ Spring Boot 参考指南提供了 [html](https://docs.spring.io/spring-boot/docs
 <a id="_learning_about_spring_boot_features"></a>
 ## 5、了解 Spring Boot 新特性
 
-需要更多关于 Spring Boot 核心特性？[Spring 特性](boot-features.md)!
+需要更多关于 Spring Boot 核心特性？[Spring 特性](spring-boot-features.md)!
 
 - **核心特性**：SpringApplication | 外部配置 | Profile | 日志
 - **Web 应用程序**：MVC | 嵌入式容器
