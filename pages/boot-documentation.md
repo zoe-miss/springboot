@@ -56,7 +56,7 @@ Spring Boot 参考指南提供了 [html](https://docs.spring.io/spring-boot/docs
 <a id="boot-documentation-first-steps"></a>
 ## 3、起步
 
-如果您是刚开始使用 Spring Boot，或者对 Spring 大体有个印象, [您可以从这里开始学习](page/getting-started.md)!
+如果您是刚开始使用 Spring Boot，或者对 Spring 大体有个印象, [您可以从这里开始学习](getting-started.md)!
 
 - **从零开始**： [概述](getting-started.md#getting-started-introducing-spring-boot) | [要求](getting-started.md#getting-started-system-requirements) | [安装](getting-started.md#getting-started-installing-spring-boot)
 - **教程**： [第 1 部分](getting-started.md) | [第 2 部分](getting-started.md#getting-started-first-application-code)
